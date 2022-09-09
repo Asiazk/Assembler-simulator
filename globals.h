@@ -6,7 +6,7 @@
 #define DIGIT_MAX 5
 #define MAX_LINE_SIZE 81
 #define NUM_OF_RESERVED_NAMES 36
-#define CHARS_INSIDE_MACRO 400 /* Yakir wrote in forum  we can limit the size of macro content */
+#define CHARS_INSIDE_MACRO 400
 #define MAX_LABEL_NAME 32
 #define SIZE_OF_BYTE 11
 #define NUM_OF_COMMANDS 16
@@ -16,7 +16,7 @@
 #define BASE_32_WORD 3
 #define MAX_OPERATION_NAME 8
 #define ADD_TO_ADDRESS 100 /* adding 100 to address field of label to simulate addreesses of imaginary computer's RAM */
-#define MAX_LABEL_PTR 156 /* Yakir wrote in forum we can limit the number of labels. each label in label struct represents a line with an individual address so max number of lines is 256-100=156 */
+#define MAX_LABEL_PTR 156 /* limit the number of labels. each label in label struct represents a line with an individual address so max number of lines is 256-100=156 */
 #define ANSI_COLOR_RED     "\x1b[31m"
 #define ANSI_COLOR_CYAN    "\x1b[36m"
 #define ANSI_COLOR_MAGENTA "\x1b[35m"
