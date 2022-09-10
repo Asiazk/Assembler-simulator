@@ -1,4 +1,3 @@
-# Assembler-simulator
 Final project in C programming course
 
 3 pass assembler simulator in C.
