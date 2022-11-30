@@ -1,8 +1,9 @@
-Watch my project presentation on Youtube:
+<pre>Watch my project presentation on Youtube:</pre>
 [![](https://markdown-videos.deta.dev/youtube/Nqj4Hy7Fjro)](https://youtu.be/Nqj4Hy7Fjro)
 
 
-Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation, and creating output files with special characters in 32-base format.
+<pre>Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation,
+and creating output files with special characters in 32-base format.
 
 3 pass assembler simulator in C.
 Pre-assembler: Reading .am file with Assembly commands, replacing macros and creating .as file.
@@ -16,4 +17,4 @@ Second pass: Binary encoding and creating .ob/.ent/.ext files with encoding from
 ✯stringUtils: String handling functions
 ✯numUtils: Conversions of binary base and 32 base
 ✯utils: General functions
-✯globals: Definition of constants and typedef
+✯globals: Definition of constants and typedef</pre>
