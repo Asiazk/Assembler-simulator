@@ -1,6 +1,8 @@
 Watch my project presentation on Youtube:
 https://www.youtube.com/watch?v=Nqj4Hy7Fjro
 
+
+
 Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation, and creating output files with special characters in 32-base format.
 
 3 pass assembler simulator in C.
