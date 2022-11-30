@@ -1,6 +1,4 @@
-[![Img alt text](https://img.youtube.com/vi/Nqj4Hy7Fjro/0.jpg)](https://www.youtube.com/watch?v=Nqj4Hy7Fjro)
-
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/108948948/204918242-6c88cd82-86f5-4466-9972-d012d55318c6.gif)
+[![Img alt text](https://img.youtube.com/vi/Nqj4Hy7Fjro/10.jpg)](https://www.youtube.com/watch?v=Nqj4Hy7Fjro)
 
 
 Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation, and creating output files with special characters in 32-base format.
