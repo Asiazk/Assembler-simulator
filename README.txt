@@ -1,3 +1,6 @@
+[![](https://markdown-videos.deta/youtube/Nqj4Hy7Fjro)](https://youtu.be/Nqj4Hy7Fjro)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nqj4Hy7Fjro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation, and creating output files with special characters in 32-base format.
