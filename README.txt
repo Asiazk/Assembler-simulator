@@ -1,4 +1,5 @@
-[![Img alt text](https://img.youtube.com/vi/Nqj4Hy7Fjro/0.jpg)](https://www.youtube.com/watch?v=Nqj4Hy7Fjro)
+Watch my project presentation on Youtube:
+https://www.youtube.com/watch?v=Nqj4Hy7Fjro
 
 Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation, and creating output files with special characters in 32-base format.
 
