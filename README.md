@@ -1,6 +1,6 @@
-Watch my project presentation on Youtube:
-https://www.youtube.com/watch?v=Nqj4Hy7Fjro
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nqj4Hy7Fjro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/108948948/204918242-6c88cd82-86f5-4466-9972-d012d55318c6.gif)
 
 
 Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation, and creating output files with special characters in 32-base format.
