@@ -2,13 +2,14 @@
 [![](https://markdown-videos.deta.dev/youtube/Nqj4Hy7Fjro)](https://youtu.be/Nqj4Hy7Fjro)
 
 
-<pre>Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros, planning memory allocation,
-and creating output files with special characters in 32-base format.
+<pre>Final project in C programming course: Conversion of Assembly input files into binary code: replacing macros,
+planning memory allocation, and creating output files with special characters in 32-base format.
 
 3 pass assembler simulator in C.
 Pre-assembler: Reading .am file with Assembly commands, replacing macros and creating .as file.
 First pass: Counting lines for binary encoding and creating label table.
-Second pass: Binary encoding and creating .ob/.ent/.ext files with encoding from binary base to 32 base with special symbols.
+Second pass: Binary encoding and creating .ob/.ent/.ext files with encoding from binary base to 32 base with
+special symbols.
 
 ✯assembler: Main program
 ✯preAssembler: Macros
