@@ -1,4 +1,4 @@
-<pre>Watch my project presentation on Youtube:</pre>
+<pre>Watch my project presentation on YouTube:</pre>
 [![](https://markdown-videos.deta.dev/youtube/Nqj4Hy7Fjro)](https://youtu.be/Nqj4Hy7Fjro)
 
 
