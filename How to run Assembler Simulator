@@ -1,3 +1,3 @@
-1) Download the following files: all c & h files, makefile, and Example input files
+1) Download the following files: all c & h files, makefile, and Example input files folder
 2) Run makefile command in linux environment 
-3) Run command: assembler f1 takin errors1 errors3 errors6
+3) Run command: ./assembler f1 takin errors1 errors3 errors6
